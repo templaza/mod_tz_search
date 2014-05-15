@@ -1,0 +1,34 @@
+.mod_tz_search .tz_up {
+    background-image: url(icons/up.png);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+}
+
+.mod_tz_search .tz_down {
+    background-image: url(icons/down.png);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+}
+
+.mod_tz_search .tz-search-header {
+    font-weight: bold;
+}
+
+.mod_tz_search .tz-search-dropdown li.tz-search-option {
+    line-height: 20px;
+    padding: 10px 20px;
+}
+
+.mod_tz_search .tz-search-dropdown li.tz-search-option label {
+    clear: both;
+    display: block;
+}
+
+.mod_tz_search .tz-search-dropdown li.tz-search-option ul {
+    margin: 0;
+    list-style: none;
+}
+
+.mod_tz_search .tz-search-dropdown li.tz-search-option ul li label{
+    display: inline;
+}
